@@ -28,7 +28,8 @@
    ```bash
    $ cd fullstack_assignment/backend/config/config.json
    ```
-   with your database credentials
+   with your database credentials.
+   
    To start the app
    ```bash
    node app.js
