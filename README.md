@@ -33,14 +33,17 @@
    npm start
    ```
 
----
 
+```bash
 How can you implement shared functionality across a component tree?
+
 I implement shared functionality across a component tree by using context API as well as React Redux library.
-
-
+```
+```bash
 Why is the useState hook appropriate for handling state in a complex component?
+
 The useState hook is appropriate for handling state in complex components because it simplifies state management, allows for localized and independent state variables, supports functional updates. Basically it follows DRY(Dont Repeat Yourself) principle  to make the code clean.
+```
 
-
+---
 
