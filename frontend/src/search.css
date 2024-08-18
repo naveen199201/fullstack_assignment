@@ -1,0 +1,46 @@
+/* .search-bar{
+    height: 50vh;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+
+}
+input{
+ height: 50px;
+ width:50vw;
+}
+p{
+    font-size: 60px !important;
+    font-weight: bold;
+} */
+
+
+
+.search-bar {
+    background-color: #979fb7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-inline: 10px;
+    height: 30vh;
+}
+.cardsearch{
+    margin-block-end: 20px;
+}
+   
+.search-bar p {
+    margin-bottom: 10px;
+    font-size: 50px;
+    text-align: center;
+}
+
+
+.MuiInputBase-root {
+    max-width: 50vw; /* Adjust the width as needed */
+    margin: auto;
+    background-color: white;
+    /* width: 100%; */
+}
+  

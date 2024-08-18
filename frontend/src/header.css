@@ -1,0 +1,20 @@
+.submitrequest{
+    background-color: rgb(43, 36, 36) !important;
+    color: white !important;
+    margin-block: 15px !important;
+    border: 1px solid white !important;
+}
+.header{
+    background-color: black !important;
+    color: red !important;
+    display: flex;
+    align-items: center;
+}
+.appbar{
+    background-color: black !important;  
+    
+}
+h2{
+    padding-left:10vw;
+    text-align: left;
+}
