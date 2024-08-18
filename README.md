@@ -24,6 +24,11 @@
    npm install express sequelize pg pg-hstore
    npx sequelize-cli init
    ```
+   Before starting the app update your
+   ```bash
+   $ cd fullstack_assignment/backend/config/config.json
+   ```
+   with your database credentials
    To start the app
    ```bash
    node app.js
