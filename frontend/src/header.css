@@ -11,10 +11,20 @@
     align-items: center;
 }
 .appbar{
-    background-color: black !important;  
-    
+    background-color: black !important;    
 }
-h2{
-    padding-left:10vw;
-    text-align: left;
+.header-heading{
+    margin-top: 1% !important;
+    padding-left:1vw !important;
+    text-align: left !important;
+    font-size: x-large;
+    font-weight: 600;
+}
+.header-text {
+    padding-left:10vw !important;
+}
+.header-image{
+    height: 40px;
+    width: 50px;
+    border-radius: 10px;
 }

@@ -1,11 +1,10 @@
 {
     "development": {
-        "username": "postgres",
-        "password": "Admin",
-        "database": "postgress",
-        "host": "localhost",
+        "username": "your_db_username",
+        "password": "your_db_password",
+        "database": "your_db_name",
+        "host": "your_db_host",
         "dialect": "postgres",
         "protocol": "postgres"
-        
     }
 }

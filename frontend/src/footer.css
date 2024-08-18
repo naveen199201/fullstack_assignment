@@ -2,22 +2,52 @@ ul{
     padding-inline-start: 40% !important;
     text-align: left;
 }
-
 li{
     list-style: none;
-    font-weight: 300;
-    
+    font-size: 15px;
 }
-h3{
+h1{
     padding-inline-start: 40% !important;
     text-align: left;
 }
 .footer{
     background: black;
     color: white;
+    display: flex;
+    padding-bottom: 3%;
+    font-size:small;
 }
 h4{
     margin:0px !important;
+    padding-top: 20px !important;
     padding-inline-start: 40% !important;
     text-align: left;
+}
+.contact-us{
+    padding-inline-start: 40% !important;
+    margin-top: 0px !important;
+    text-align: left;  
+}
+.copyright{
+    align-items: end;
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+}
+.logo{
+    height:100px;
+}
+.footer_logo{
+    padding-inline-start: 8% !important;
+}
+.footer-image{
+    height: 40px;
+    width: 50px;
+    border-radius: 15px;
+}
+
+.footer-copyright{
+margin-block-start: 0px !important;
+padding-block-start: 0px !important;
+padding-inline-start: 8% !important;
 }
