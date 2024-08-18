@@ -24,6 +24,8 @@
    
    To start the app
    ```bash
+   npx sequelize-cli db:create
+   npx sequelize-cli db:migrate
    node app.js
    ```
 3. **Frontend:**
