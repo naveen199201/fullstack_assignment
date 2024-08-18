@@ -19,12 +19,22 @@
 4. ```bash
    $ cd fullstack_assignment/backend
    ```
+   Then install the dependencies:
+   ```sh
+   npm install express sequelize pg pg-hstore
+   npx sequelize-cli init
+   ```
+   To start the app
+   ```bash
+   node app.js
+   ```
+
    
-5. **Push Your Work:**
+6. **Push Your Work:**
    - Push both the frontend and backend apps to the same repository.
    - Make sure the repository is public.
 
-6. **Submit Your Work:**
+7. **Submit Your Work:**
    - Paste the GitHub repository link in the Google form you received after pushing your code.
 
 ---
