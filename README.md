@@ -1,4 +1,4 @@
-# Help Center API Assignment
+# Fullstack Assignment
 
 ## Instructions
 
@@ -24,6 +24,8 @@
    
    To start the app
    ```bash
+   npx sequelize-cli db:create
+   npx sequelize-cli db:migrate
    node app.js
    ```
 3. **Frontend:**
@@ -32,6 +34,20 @@
    npm install
    npm start
    ```
+
+How can you implement shared functionality across a component tree?
+```bash
+
+
+I implement shared functionality across a component tree by using context API as well as React Redux library.
+```
+
+Why is the useState hook appropriate for handling state in a complex component?
+```bash
+
+
+The useState hook is appropriate for handling state in complex components because it simplifies state management, allows for localized and independent state variables, supports functional updates. Basically it follows DRY(Dont Repeat Yourself) principle  to make the code clean.
+```
 
 ---
 
